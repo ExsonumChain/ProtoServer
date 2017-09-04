@@ -1,0 +1,6 @@
+.idea
+*.iml
+*.pyc
+uploads
+*.sqlite3
+.vscode
